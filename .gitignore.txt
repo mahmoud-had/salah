@@ -1,3 +1,4 @@
 "test 1 - Copy/"
 "test 2/"
 "test 2 - Copy/"
+"delete/"
